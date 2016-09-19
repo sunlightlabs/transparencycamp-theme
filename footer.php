@@ -84,5 +84,6 @@ var _gaq = _gaq || [];
         ga('create', 'UA-48789618-1', 'transparencycamp.org', {'name': 'global'});
         ga('global.send', 'pageview');
         </script>
+        <?php wp_footer() ?>
     </body>
 </html>
