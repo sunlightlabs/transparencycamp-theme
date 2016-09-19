@@ -2309,6 +2309,10 @@ find first declaration, add this to it!! **/
   text-decoration:none;
   position:relative;
 }
+.register .jumbotron p a.btn,
+#content .container.jumbotron p a.btn{
+  color:#fff;
+}
 .register .jumbotron p a:before,
 #content .container.jumbotron p a:before{
   content:"";
